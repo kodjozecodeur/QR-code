@@ -41,7 +41,7 @@ body{
     margin-top: 2em;
     text-align: center;
 }
-.card-content h3{
+.card-content h1{
     font-size: 2.5rem;
     color: hsl(218, 44%, 22%);
 }
